@@ -1,4 +1,5 @@
 # Dashboard
 
-I will make a dashboard webpage with html-css
+Simple dashboard template made with html-css
 
+Live: https://redpho.github.io/Dashboard/
